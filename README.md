@@ -3,7 +3,9 @@
 ## Project Overview
 This project implements advanced recommendation systems using dimensionality reduction techniques and domain-specific approaches. The project is divided into two main sections:
 - **Section 1**: Dimensionality reduction techniques (PCA, SVD) for collaborative filtering
+- dataset for section 1 https://files.grouplens.org/datasets/movielens/ml-32m.zip
 - **Section 2**: Domain-specific recommendation system for fashion rental platform
+- dataset for section 2 : https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation
 
 ## Project Structure
 ```
